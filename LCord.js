@@ -5,9 +5,9 @@ const { SpotifyPlugin } = require('@distube/spotify');
 const { SoundCloudPlugin } = require('@distube/soundcloud');
 const { DeezerPlugin } = require("@distube/deezer");
 const Genius = require("genius-lyrics");
-const filters = require("./assests/filters.json");
 
-class gfMusicClient extends Client {
+
+class LCord extends Client {
     constructor() {
         super({
             intents: [
@@ -26,7 +26,7 @@ class gfMusicClient extends Client {
             partials: [Partials.Message, Partials.Channel, Partials.Reaction],
         });
 
-        this.config = require("./configs/config");
+        this.config = require("./config/configs");
         this.dashboard = require("./dashboard/dashboard");
         this.spawned = false;
         this.slashCommands = new Collection();
@@ -68,7 +68,7 @@ class gfMusicClient extends Client {
                 liveBuffer: 60000,
                 dlChunkSize: 1024 * 1024 * 4,
             },
-            customFilters: filters,
+            // customFilters: filters,
             plugins: [
                 new SpotifyPlugin({
                     parallel: true,
@@ -87,11 +87,11 @@ class gfMusicClient extends Client {
         });
 
         ["aliases", "commands"].forEach(x => this[x] = new Collection());
-        ["commands", "events", "distube", "autoresume", "database", "slashCommands", this.config.antiCrash_Module ? "antiCrash" : null,].forEach(x => require(`./handlers/${x}`)(this));
+        ["commands", "events", "distube", "autoresume", "databases", "slashCommands", this.config.antiCrash_Module ? "antiCrash" : null,].forEach(x => require(`./handlers/${x}`)(this));
 
     }
     start() {
         return super.login(this.token);
     };
 };
-module.exports = gfMusicClient;
+module.exports = LCord;

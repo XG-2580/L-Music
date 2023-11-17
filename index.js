@@ -1,5 +1,5 @@
-const gfMusicClient = require("./gfMusicClient");
-const client = new gfMusicClient();
+const LCord = require("./LCord.js");
+const client = new LCord();
 
 client.start()
 

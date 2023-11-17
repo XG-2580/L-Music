@@ -30,3 +30,171 @@
 2023-01-02 16:57:12 [[32minfo[39m] [[36mClient Events[39m] Client Events Loaded
 2023-01-02 16:57:12 [[32minfo[39m] [[36mDistube events[39m] Distube Events Loaded
 2023-01-02 16:57:12 [[32minfo[39m] [[36mShard Ready[39m] [Mon Jan 02 2023 16:57:12] || ==> || Shard #0 Ready
+2023-11-16 20:51:12 [[32minfo[39m] [[36mShard[39m] Launching Shard 0
+2023-11-16 20:52:56 [[32minfo[39m] [[36mShard[39m] Launching Shard 0
+2023-11-16 20:53:31 [[32minfo[39m] [[36mShard[39m] Launching Shard 0
+2023-11-16 20:54:27 [[32minfo[39m] [[36mShard[39m] Launching Shard 0
+2023-11-16 20:56:42 [[32minfo[39m] [[36mShard[39m] Launching Shard 0
+2023-11-16 21:00:07 [[32minfo[39m] [[36mShard[39m] Launching Shard 0
+2023-11-16 21:03:06 [[32minfo[39m] [[36mShard[39m] Launching Shard 0
+2023-11-16 21:09:42 [[32minfo[39m] [[36mShard[39m] Launching Shard 0
+2023-11-16 21:11:04 [[32minfo[39m] [[36mShard[39m] Launching Shard 0
+2023-11-16 21:11:43 [[31merror[39m] [[36mAnti Crash Module[39m] Unhandled Rejection, ({"code":"TokenInvalid"})
+2023-11-16 21:11:46 [[32minfo[39m] [[36mCommands[39m] Commands Loaded
+2023-11-16 21:11:46 [[32minfo[39m] [[36mClient Events[39m] Client Events Loaded
+2023-11-16 21:11:46 [[32minfo[39m] [[36mDistube events[39m] Distube Events Loaded
+2023-11-16 21:14:55 [[31merror[39m] [[36mAnti Crash Module[39m] Unhandled Rejection, ({"code":"TokenInvalid"})
+2023-11-16 21:14:59 [[32minfo[39m] [[36mCommands[39m] Commands Loaded
+2023-11-16 21:14:59 [[32minfo[39m] [[36mClient Events[39m] Client Events Loaded
+2023-11-16 21:14:59 [[32minfo[39m] [[36mDistube events[39m] Distube Events Loaded
+2023-11-16 21:15:33 [[31merror[39m] [[36mAnti Crash Module[39m] Unhandled Rejection, ({"code":"TokenInvalid"})
+2023-11-16 21:15:36 [[32minfo[39m] [[36mCommands[39m] Commands Loaded
+2023-11-16 21:15:36 [[32minfo[39m] [[36mClient Events[39m] Client Events Loaded
+2023-11-16 21:15:36 [[32minfo[39m] [[36mDistube events[39m] Distube Events Loaded
+2023-11-16 21:16:01 [[31merror[39m] [[36mAnti Crash Module[39m] Unhandled Rejection, ({"code":"TokenInvalid"})
+2023-11-16 21:16:04 [[32minfo[39m] [[36mCommands[39m] Commands Loaded
+2023-11-16 21:16:05 [[32minfo[39m] [[36mClient Events[39m] Client Events Loaded
+2023-11-16 21:16:05 [[32minfo[39m] [[36mDistube events[39m] Distube Events Loaded
+2023-11-16 21:18:04 [[31merror[39m] [[36mAnti Crash Module[39m] Unhandled Rejection, ({"code":"TokenInvalid"})
+2023-11-16 21:18:36 [[31merror[39m] [[36mAnti Crash Module[39m] Unhandled Rejection, ({"code":"TokenInvalid"})
+2023-11-16 21:18:40 [[32minfo[39m] [[36mCommands[39m] Commands Loaded
+2023-11-16 21:18:40 [[32minfo[39m] [[36mClient Events[39m] Client Events Loaded
+2023-11-16 21:18:40 [[32minfo[39m] [[36mDistube events[39m] Distube Events Loaded
+2023-11-16 21:20:33 [[32minfo[39m] [[36mShard[39m] Launching Shard 0
+2023-11-16 21:20:38 [[32minfo[39m] [[36mReady[39m] L Music is now ready
+2023-11-16 21:20:38 [[32minfo[39m] [[36mStatcord Api[39m] Started autopost
+2023-11-16 21:20:39 [[32minfo[39m] [[36mSlash Commands[39m] 2 slashCommands (With 22 Subcommands) Loaded for all: All possible Guilds
+2023-11-16 21:20:39 [[31merror[39m] [[36mAnti Crash Module[39m] Unhandled Rejection, ({})
+2023-11-16 21:20:39 [[31merror[39m] [[36mReadyEventError[39m] Error in ready event: Invalid Form Body
+user_id[NUMBER_TYPE_COERCE]: Value "null" is not snowflake.
+2023-11-16 21:20:40 [[32minfo[39m] [[36mCommands[39m] Commands Loaded
+2023-11-16 21:20:40 [[32minfo[39m] [[36mClient Events[39m] Client Events Loaded
+2023-11-16 21:20:40 [[32minfo[39m] [[36mDistube events[39m] Distube Events Loaded
+2023-11-16 21:20:40 [[32minfo[39m] [[36mShard Ready[39m] [Thu Nov 16 2023 21:20:40] || ==> || Shard #0 Ready
+2023-11-16 21:23:47 [[32minfo[39m] [[36mShard[39m] Launching Shard 0
+2023-11-16 21:23:53 [[32minfo[39m] [[36mReady[39m] L Music is now ready
+2023-11-16 21:23:53 [[32minfo[39m] [[36mStatcord Api[39m] Started autopost
+2023-11-16 21:23:54 [[32minfo[39m] [[36mSlash Commands[39m] 2 slashCommands (With 22 Subcommands) Loaded for all: All possible Guilds
+2023-11-16 21:23:54 [[32minfo[39m] [[36mCommands[39m] Commands Loaded
+2023-11-16 21:23:54 [[31merror[39m] [[36mReadyEventError[39m] Error in ready event: Invalid Form Body
+user_id[NUMBER_TYPE_COERCE]: Value "null" is not snowflake.
+2023-11-16 21:23:54 [[32minfo[39m] [[36mClient Events[39m] Client Events Loaded
+2023-11-16 21:23:54 [[32minfo[39m] [[36mDistube events[39m] Distube Events Loaded
+2023-11-16 21:23:55 [[32minfo[39m] [[36mShard Ready[39m] [Thu Nov 16 2023 21:23:55] || ==> || Shard #0 Ready
+2023-11-16 21:23:57 [[31merror[39m] [[36mAnti Crash Module[39m] Unhandled Rejection, ({})
+2023-11-16 21:24:36 [[32minfo[39m] [[36mHelp Command[39m] [COMMAND] Help used by s.limsathya from Limsathyacord
+2023-11-16 21:25:03 [[32minfo[39m] [[36mShard[39m] Launching Shard 0
+2023-11-16 21:25:10 [[32minfo[39m] [[36mReady[39m] L-Cord is now ready
+2023-11-16 21:25:10 [[32minfo[39m] [[36mStatcord Api[39m] Started autopost
+2023-11-16 21:25:11 [[32minfo[39m] [[36mCommands[39m] Commands Loaded
+2023-11-16 21:25:11 [[32minfo[39m] [[36mSlash Commands[39m] 2 slashCommands (With 22 Subcommands) Loaded for all: All possible Guilds
+2023-11-16 21:25:11 [[32minfo[39m] [[36mClient Events[39m] Client Events Loaded
+2023-11-16 21:25:11 [[32minfo[39m] [[36mDistube events[39m] Distube Events Loaded
+2023-11-16 21:25:11 [[31merror[39m] [[36mReadyEventError[39m] Error in ready event: Invalid Form Body
+user_id[NUMBER_TYPE_COERCE]: Value "null" is not snowflake.
+2023-11-16 21:25:12 [[31merror[39m] [[36mAnti Crash Module[39m] Unhandled Rejection, ({})
+2023-11-16 21:25:12 [[32minfo[39m] [[36mShard Ready[39m] [Thu Nov 16 2023 21:25:12] || ==> || Shard #0 Ready
+2023-11-16 21:45:31 [[32minfo[39m] [[36mShard[39m] Launching Shard 0
+2023-11-16 21:45:38 [[32minfo[39m] [[36mReady[39m] L-Cord is now ready
+2023-11-16 21:45:38 [[32minfo[39m] [[36mStatcord Api[39m] Started autopost
+2023-11-16 21:45:38 [[32minfo[39m] [[36mSlash Commands[39m] 2 slashCommands (With 22 Subcommands) Loaded for all: All possible Guilds
+2023-11-16 21:45:38 [[32minfo[39m] [[36mCommands[39m] Commands Loaded
+2023-11-16 21:45:38 [[32minfo[39m] [[36mClient Events[39m] Client Events Loaded
+2023-11-16 21:45:38 [[32minfo[39m] [[36mDistube events[39m] Distube Events Loaded
+2023-11-16 21:45:39 [[31merror[39m] [[36mReadyEventError[39m] Error in ready event: Invalid Form Body
+user_id[NUMBER_TYPE_COERCE]: Value "null" is not snowflake.
+2023-11-16 21:45:40 [[31merror[39m] [[36mAnti Crash Module[39m] Unhandled Rejection, ({})
+2023-11-16 21:45:40 [[32minfo[39m] [[36mShard Ready[39m] [Thu Nov 16 2023 21:45:40] || ==> || Shard #0 Ready
+2023-11-16 21:50:33 [[32minfo[39m] [[36mShard[39m] Launching Shard 0
+2023-11-16 21:50:39 [[32minfo[39m] [[36mReady[39m] L-Cord is now ready
+2023-11-16 21:50:39 [[32minfo[39m] [[36mStatcord Api[39m] Started autopost
+2023-11-16 21:50:39 [[32minfo[39m] [[36mSlash Commands[39m] 2 slashCommands (With 22 Subcommands) Loaded for all: All possible Guilds
+2023-11-16 21:50:40 [[31merror[39m] [[36mReadyEventError[39m] Error in ready event: Invalid Form Body
+user_id[NUMBER_TYPE_COERCE]: Value "null" is not snowflake.
+2023-11-16 21:50:41 [[31merror[39m] [[36mAnti Crash Module[39m] Unhandled Rejection, ({})
+2023-11-16 21:50:41 [[32minfo[39m] [[36mCommands[39m] Commands Loaded
+2023-11-16 21:50:41 [[32minfo[39m] [[36mClient Events[39m] Client Events Loaded
+2023-11-16 21:50:41 [[32minfo[39m] [[36mDistube events[39m] Distube Events Loaded
+2023-11-16 21:50:41 [[32minfo[39m] [[36mShard Ready[39m] [Thu Nov 16 2023 21:50:41] || ==> || Shard #0 Ready
+2023-11-16 21:54:11 [[32minfo[39m] [[36mShard[39m] Launching Shard 0
+2023-11-16 21:54:16 [[32minfo[39m] [[36mReady[39m] L-Cord is now ready
+2023-11-16 21:54:16 [[32minfo[39m] [[36mStatcord Api[39m] Started autopost
+2023-11-16 21:54:17 [[31merror[39m] [[36mReadyEventError[39m] Error in ready event: Invalid Form Body
+user_id[NUMBER_TYPE_COERCE]: Value "null" is not snowflake.
+2023-11-16 21:54:17 [[32minfo[39m] [[36mSlash Commands[39m] 2 slashCommands (With 22 Subcommands) Loaded for all: All possible Guilds
+2023-11-16 21:54:18 [[31merror[39m] [[36mAnti Crash Module[39m] Unhandled Rejection, ({})
+2023-11-16 21:54:18 [[32minfo[39m] [[36mCommands[39m] Commands Loaded
+2023-11-16 21:54:18 [[32minfo[39m] [[36mClient Events[39m] Client Events Loaded
+2023-11-16 21:54:18 [[32minfo[39m] [[36mDistube events[39m] Distube Events Loaded
+2023-11-16 21:54:18 [[32minfo[39m] [[36mShard Ready[39m] [Thu Nov 16 2023 21:54:18] || ==> || Shard #0 Ready
+2023-11-16 21:59:28 [[32minfo[39m] [[36mShard[39m] Launching Shard 0
+2023-11-16 21:59:34 [[32minfo[39m] [[36mReady[39m] L-Cord is now ready
+2023-11-16 21:59:34 [[32minfo[39m] [[36mStatcord Api[39m] Started autopost
+2023-11-16 21:59:35 [[32minfo[39m] [[36mSlash Commands[39m] 2 slashCommands (With 22 Subcommands) Loaded for all: All possible Guilds
+2023-11-16 21:59:35 [[31merror[39m] [[36mReadyEventError[39m] Error in ready event: Invalid Form Body
+user_id[NUMBER_TYPE_COERCE]: Value "null" is not snowflake.
+2023-11-16 21:59:35 [[32minfo[39m] [[36mCommands[39m] Commands Loaded
+2023-11-16 21:59:35 [[32minfo[39m] [[36mClient Events[39m] Client Events Loaded
+2023-11-16 21:59:35 [[32minfo[39m] [[36mDistube events[39m] Distube Events Loaded
+2023-11-16 21:59:36 [[31merror[39m] [[36mAnti Crash Module[39m] Unhandled Rejection, ({})
+2023-11-16 21:59:36 [[32minfo[39m] [[36mShard Ready[39m] [Thu Nov 16 2023 21:59:36] || ==> || Shard #0 Ready
+2023-11-16 22:07:13 [[32minfo[39m] [[36mShard[39m] Launching Shard 0
+2023-11-16 22:07:19 [[32minfo[39m] [[36mReady[39m] L-Cord is now ready
+2023-11-16 22:07:19 [[32minfo[39m] [[36mStatcord Api[39m] Started autopost
+2023-11-16 22:07:20 [[32minfo[39m] [[36mSlash Commands[39m] 2 slashCommands (With 22 Subcommands) Loaded for all: All possible Guilds
+2023-11-16 22:07:20 [[31merror[39m] [[36mReadyEventError[39m] Error in ready event: Invalid Form Body
+user_id[NUMBER_TYPE_COERCE]: Value "null" is not snowflake.
+2023-11-16 22:07:20 [[32minfo[39m] [[36mCommands[39m] Commands Loaded
+2023-11-16 22:07:21 [[32minfo[39m] [[36mClient Events[39m] Client Events Loaded
+2023-11-16 22:07:21 [[32minfo[39m] [[36mDistube events[39m] Distube Events Loaded
+2023-11-16 22:07:21 [[31merror[39m] [[36mAnti Crash Module[39m] Unhandled Rejection, ({})
+2023-11-16 22:07:21 [[32minfo[39m] [[36mShard Ready[39m] [Thu Nov 16 2023 22:07:21] || ==> || Shard #0 Ready
+2023-11-17 11:52:19 [[32minfo[39m] [[36mShard[39m] Launching Shard 0
+2023-11-17 11:52:40 [[32minfo[39m] [[36mShard[39m] Launching Shard 0
+2023-11-17 11:53:23 [[32minfo[39m] [[36mShard[39m] Launching Shard 0
+2023-11-17 11:54:58 [[32minfo[39m] [[36mShard[39m] Launching Shard 0
+2023-11-17 11:58:40 [[32minfo[39m] [[36mShard[39m] Launching Shard 0
+2023-11-17 11:58:45 [[32minfo[39m] [[36mReady[39m] L-Cord is now ready
+2023-11-17 11:58:46 [[32minfo[39m] [[36mStatcord Api[39m] Started autopost
+2023-11-17 11:58:46 [[32minfo[39m] [[36mSlash Commands[39m] 2 slashCommands (With 22 Subcommands) Loaded for all: All possible Guilds
+2023-11-17 11:58:46 [[31merror[39m] [[36mReadyEventError[39m] Error in ready event: Invalid Form Body
+user_id[NUMBER_TYPE_COERCE]: Value "null" is not snowflake.
+2023-11-17 11:58:46 [[32minfo[39m] [[36mCommands[39m] Commands Loaded
+2023-11-17 11:58:46 [[32minfo[39m] [[36mClient Events[39m] Client Events Loaded
+2023-11-17 11:58:46 [[32minfo[39m] [[36mDistube events[39m] Distube Events Loaded
+2023-11-17 11:58:47 [[31merror[39m] [[36mAnti Crash Module[39m] Unhandled Rejection, ({})
+2023-11-17 11:58:47 [[32minfo[39m] [[36mShard Ready[39m] [Fri Nov 17 2023 11:58:47] || ==> || Shard #0 Ready
+2023-11-17 11:59:32 [[31merror[39m] [[36mAnti Crash Module[39m] Unhandled Rejection, ({"code":"TokenInvalid"})
+2023-11-17 11:59:36 [[32minfo[39m] [[36mCommands[39m] Commands Loaded
+2023-11-17 11:59:36 [[32minfo[39m] [[36mClient Events[39m] Client Events Loaded
+2023-11-17 11:59:36 [[32minfo[39m] [[36mDistube events[39m] Distube Events Loaded
+2023-11-17 11:59:52 [[32minfo[39m] [[36mShard[39m] Launching Shard 0
+2023-11-17 11:59:57 [[32minfo[39m] [[36mReady[39m] L-Cord is now ready
+2023-11-17 11:59:57 [[32minfo[39m] [[36mStatcord Api[39m] Started autopost
+2023-11-17 11:59:57 [[32minfo[39m] [[36mSlash Commands[39m] 2 slashCommands (With 22 Subcommands) Loaded for all: All possible Guilds
+2023-11-17 11:59:57 [[31merror[39m] [[36mReadyEventError[39m] Error in ready event: Invalid Form Body
+user_id[NUMBER_TYPE_COERCE]: Value "null" is not snowflake.
+2023-11-17 11:59:58 [[32minfo[39m] [[36mCommands[39m] Commands Loaded
+2023-11-17 11:59:58 [[32minfo[39m] [[36mClient Events[39m] Client Events Loaded
+2023-11-17 11:59:58 [[32minfo[39m] [[36mDistube events[39m] Distube Events Loaded
+2023-11-17 11:59:59 [[32minfo[39m] [[36mShard Ready[39m] [Fri Nov 17 2023 11:59:59] || ==> || Shard #0 Ready
+2023-11-17 12:05:06 [[32minfo[39m] [[36mShard[39m] Launching Shard 0
+2023-11-17 12:05:11 [[32minfo[39m] [[36mReady[39m] L-Cord is now ready
+2023-11-17 12:05:11 [[32minfo[39m] [[36mStatcord Api[39m] Started autopost
+2023-11-17 12:05:12 [[32minfo[39m] [[36mSlash Commands[39m] 2 slashCommands (With 22 Subcommands) Loaded for all: All possible Guilds
+2023-11-17 12:05:12 [[31merror[39m] [[36mReadyEventError[39m] Error in ready event: Invalid Form Body
+user_id[NUMBER_TYPE_COERCE]: Value "null" is not snowflake.
+2023-11-17 12:05:13 [[32minfo[39m] [[36mCommands[39m] Commands Loaded
+2023-11-17 12:05:13 [[32minfo[39m] [[36mClient Events[39m] Client Events Loaded
+2023-11-17 12:05:13 [[32minfo[39m] [[36mDistube events[39m] Distube Events Loaded
+2023-11-17 12:05:13 [[32minfo[39m] [[36mShard Ready[39m] [Fri Nov 17 2023 12:05:13] || ==> || Shard #0 Ready
+2023-11-17 12:05:43 [[32minfo[39m] [[36mShard[39m] Launching Shard 0
+2023-11-17 12:05:49 [[32minfo[39m] [[36mReady[39m] L-Cord is now ready
+2023-11-17 12:05:49 [[32minfo[39m] [[36mStatcord Api[39m] Started autopost
+2023-11-17 12:05:49 [[32minfo[39m] [[36mSlash Commands[39m] 2 slashCommands (With 22 Subcommands) Loaded for all: All possible Guilds
+2023-11-17 12:05:49 [[31merror[39m] [[36mReadyEventError[39m] Error in ready event: Invalid Form Body
+user_id[NUMBER_TYPE_COERCE]: Value "null" is not snowflake.
+2023-11-17 12:05:50 [[32minfo[39m] [[36mCommands[39m] Commands Loaded
+2023-11-17 12:05:50 [[32minfo[39m] [[36mClient Events[39m] Client Events Loaded
+2023-11-17 12:05:50 [[32minfo[39m] [[36mDistube events[39m] Distube Events Loaded
+2023-11-17 12:05:51 [[32minfo[39m] [[36mShard Ready[39m] [Fri Nov 17 2023 12:05:51] || ==> || Shard #0 Ready

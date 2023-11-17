@@ -1,6 +1,6 @@
 module.exports = {
     name: "ping",
-    description: "Gives you information about GF Music ping",
+    description: "Gives you information about L-Cord ping",
     category: "info",
     cooldown: 5,
     checkers: {

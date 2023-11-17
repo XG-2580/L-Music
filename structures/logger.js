@@ -1,7 +1,7 @@
 const { createLogger, format, transports } = require('winston');
 const { combine, timestamp, label, printf } = format;
 const { WebhookClient } = require('discord.js');
-const config = require("../configs/config");
+const config = require("../config/configs");
 const webhookClient = new WebhookClient({ id: config.webhook.id, token: config.webhook.token });
 const chalk = require('chalk');
 

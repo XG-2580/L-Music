@@ -1,6 +1,6 @@
 const logger = require('./structures/logger');
 const { ShardingManager } = require('discord.js');
-const config = require("./configs/config");
+const config = require("./config/configs");
 
 const manager = new ShardingManager('./index.js', {
     token: config.token,
