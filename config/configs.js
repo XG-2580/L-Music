@@ -1,5 +1,5 @@
 module.exports = {
-    "token": "OTk5OTQ1NjI1NTkwMzIxMTky.GWl6tX.w2C3u0W-OEIYto-cPl4bKSXM0cCthgqPbAVXJE",
+    "token": "",
     "prefix": "$",
     "debug": false,
     "statcord_token": "statcord.com-Ha4T3t9dzN9IoqYXqiIn",
@@ -23,8 +23,8 @@ module.exports = {
         "footer_icon": "https://cdn.discordapp.com/avatars/999945625590321192/677c9148f96d7bb7841079045569aa32.png?size=1024"
     },
     "spotify": {
-        "clientId": "aadba7a2afdf48e5b4201287dd7b70a5",
-        "clientSecret": "b37a392a30de49a09e4e279707cce604"
+        "clientId": "",
+        "clientSecret": ""
     },
     "dashboard": {
         "enabled": false,
@@ -33,7 +33,7 @@ module.exports = {
         "domain": "",
         "redirectUri": "",
         "clientId": "999945625590321192",
-        "clientSecret": "uPktOEWQM-u2J1DVbV_RLR1_sQyjQY-2",
+        "clientSecret": "",
         "updateFeeds": 20,
         "events": {
             "userLoggedIn": true,
